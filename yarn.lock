@@ -3864,6 +3864,7 @@ __metadata:
     prettier: 2.8.8
     react: 18.3.1
     react-native: 0.76.1
+    react-native-element-dropdown: ^2.12.2
     react-test-renderer: 18.3.1
     typescript: 5.0.4
   languageName: unknown
@@ -7780,6 +7781,18 @@ __metadata:
   version: 17.0.2
   resolution: "react-is@npm:17.0.2"
   checksum: 9d6d111d8990dc98bc5402c1266a808b0459b5d54830bbea24c12d908b536df7883f268a7868cfaedde3dd9d4e0d574db456f84d2e6df9c4526f99bb4b5344d8
+  languageName: node
+  linkType: hard
+
+"react-native-element-dropdown@npm:^2.12.2":
+  version: 2.12.2
+  resolution: "react-native-element-dropdown@npm:2.12.2"
+  dependencies:
+    lodash: ^4.17.21
+  peerDependencies:
+    react: "*"
+    react-native: "*"
+  checksum: 5ed1d909d04f8adb693f382618adcb5878233ae7ca4f94225a789223aca94abd5b56239a19d9c8d3099161c8aaf4d398fdfd54c52815a40a52b3a3dd1e70c698
   languageName: node
   linkType: hard
 
